@@ -1,0 +1,2 @@
+/Users/carloberni/Documents/unity/test1/New Unity Project/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/carloberni/Documents/unity/test1/New Unity Project/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
