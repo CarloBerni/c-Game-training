@@ -25,7 +25,7 @@ public class PlayerControler : MonoBehaviour {
 
         Vector3_velocity = (_movHorizontal + _movVertical).normalized * speed;
 
-        motor.love(_velocity);
+        motor.Move(_velocity);
     }
 
 }
